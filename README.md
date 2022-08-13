@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 - 🤖 &nbsp; Exploring new technologies and developing software.
-- 🌱 &nbsp; Learning more about new web development technologies.
+- 🌱 &nbsp; Always learning more about new web development technologies.
 
 <h3>🛠 Languages and Tools</h3>
 
